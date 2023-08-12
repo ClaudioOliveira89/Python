@@ -23,7 +23,7 @@ class Animal:
         self.nome = nome
 
         def fazer_som(self):
-            print("Algum som genérico de aniaml")
+            print("Algum som genérico de animal")
 
 class Gato(Animal):
     def __init__(self):

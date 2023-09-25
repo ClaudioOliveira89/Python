@@ -28,3 +28,4 @@ Principais Recursos.
 - **Processamento de Dados em Lote e em Tempo Real: Capacidade de lidar com dados em lote e em tempo real, tornando-o adequado para cenários de análise de dados em tempo real.**
 - **Notebooks Jupyter: Uso de Notebooks Jupyter para documentar e compartilhar análises de dados interativas.**
 
+![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/270218351-7031a959-d33b-4b19-b09b-5a15aac6ff44.jpg)

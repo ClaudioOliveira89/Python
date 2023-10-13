@@ -3,21 +3,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0f50db?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-025751.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=white)
 
-# Python
-
-### Repository for Python Data Analysis Development.
-
-This repository has been created for Python development and programming, with a focus on data analysis. It provides support for a wide range of data-related tasks, including data collection, cleaning, exploratory analysis, and visualization. Key features include:
-Main Features.
-
-- **Data Analysis Libraries: The repository includes popular data analysis libraries in Python, such as pandas, NumPy, Matplotlib, Seaborn, and others, to facilitate data manipulation and analysis.**
-- **Integration with Visualization Tools: Support for integration with data visualization tools like Matplotlib and Seaborn to create informative charts and visualizations.**
-- **Statistical Analysis: Resources for performing advanced statistical analyses, including hypothesis testing, regression, and predictive modeling.**
-- **Batch and Real-Time Data Processing: Capability to handle both batch and real-time data, making it suitable for real-time data analysis scenarios.**
-- **Jupyter Notebooks: Use of Jupyter Notebooks to document and share interactive data analyses.**
-
-
-### Repositório de Desenvolvimento em Python para Análise de Dados.
+## Repositório de Desenvolvimento em Python para Análise de Dados.
 
 Este repositório foi criado para desenvolvimento e programação em Python, com foco na análise de dados. Ele fornece suporte para uma ampla gama de tarefas relacionadas a dados, incluindo coleta, limpeza, análise exploratória e visualização. Os principais recursos incluem:
 Principais Recursos.
@@ -28,4 +14,5 @@ Principais Recursos.
 - **Processamento de Dados em Lote e em Tempo Real: Capacidade de lidar com dados em lote e em tempo real, tornando-o adequado para cenários de análise de dados em tempo real.**
 - **Notebooks Jupyter: Uso de Notebooks Jupyter para documentar e compartilhar análises de dados interativas.**
 
-![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/270218351-7031a959-d33b-4b19-b09b-5a15aac6ff44.jpg)
+![Python_imagemgit](https://github.com/ClaudioOliveira89/Python/assets/87618859/932b63e1-4934-4985-a882-4794d9360843)
+

@@ -1,6 +1,6 @@
 #Palindrome.
 
-#Criando a função id_palindrome para o max_palindrome.
+#Criando a função is_palindrome para o max_palindrome.
 
 def is_palindrome(str): #declrando a função
     size = len(str) #calcula o tamanho da string.

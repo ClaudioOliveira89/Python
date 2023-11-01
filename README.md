@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/python-1e3cde?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Repositório de Desenvolvimento em Python.
+### Repositório de Desenvolvimento em linguagem Python.
 
 Python é uma linguagem de programação de alto nível que foi criada por Guido van Rossum e lançada pela primeira vez em 1991. Ela é conhecida por sua simplicidade e legibilidade, o que a torna uma escolha popular para programadores iniciantes e experientes.
 

@@ -1,13 +1,13 @@
 import os
 
 # Começa descrevendo o caminho base
-caminho_base = 'C:/Users/claud/Documents/Arquivos PDF'
+caminho_base = ('C:/Users/claud/Documents/Arquivos PDF')
 
 # Lista de pastas principais
-pastas_principais = ['Odessa', 'Kharkiv', 'Kherson', 'Kiev']
+pastas_principais = ['Fundos', 'Empreas', 'Investidas', 'Ações']
 
 # Lista de subpastas desejadas
-subpastas = ['Hostomel', 'Crimeia', 'Kupiansk', 'Kramatosk']
+subpastas = ['Custodiante', 'Auditor', 'Admin', 'Gestor', 'Controlador']
 
 for pasta_principal in pastas_principais:
     caminho_principal = os.path.join(caminho_base, pasta_principal)

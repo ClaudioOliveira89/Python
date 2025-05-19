@@ -1,10 +1,19 @@
 ## Repository created for programming and development in the Python language.
-![Python](https://img.shields.io/badge/python-0033CC?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=25fafe)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=25fafe)
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=25fafe)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=25fafe)
+![Numpy](https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=25fafe)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=TensorFlow&logoColor=25fafe)
+![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-black?style=for-the-badge&logo=Scikit-learn&logoColor=25fafe)
+![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=Keras&logoColor=25fafe)
 
-This repository was built for studies of the Python language, which is widely used in data analysis, data engineering, data science and machine learning, task automation. This makes Python a versatile language. 
-The goals are to delve deeper into data analysis, implement machine learning algorithms and build predictive models, and build solutions for automation.
-
-![](https://private-user-images.githubusercontent.com/87618859/367127929-58a4e61d-6adf-46f0-821a-4fd256f22b11.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYxOTQ4MzAsIm5iZiI6MTcyNjE5NDUzMCwicGF0aCI6Ii84NzYxODg1OS8zNjcxMjc5MjktNThhNGU2MWQtNmFkZi00NmYwLTgyMWEtNGZkMjU2ZjIyYjExLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEzVDAyMjg1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxYmQzYzcyYjAxYWMxYjVkYTcwOGIyOTNiN2RjZWU0YmQ5MDRkZjg3NjY5MjQxMDcxYzgwOTRjZWFjZGMxNGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jSrJkOmUL7KD4jwaYCH1_mJVUpNajuWbaCxjXZLZx3Q)
-
-Este repositório foi construido para estudos da linguagem Python, amplamente utilizada em análise de dados, engenharia de dados, ciência de dados e aprendizado de máquina, automatização de tarefas. Isso faz do Python uma linguagem versátil. 
-Os objetivos é aprofundar-se na analise de dados, implementar algoritmos de machine learning e construir modelos preditivos, e construir soluções para automação. 
+This repository was created for academic purposes to document my learning journey with the Python programming language — a modern, versatile, and high-level language widely used in web development, automation, data analysis, artificial intelligence, and data science.
+The main goal is to gradually explore fundamental and advanced Python concepts, including data types, control flow, functions, object-oriented programming, standard libraries, and popular frameworks such as Flask, Django, Pandas, and NumPy.
+This space will serve as a base for experiments, notes, practical exercises, and small projects, focusing on consolidating knowledge applicable in academic, professional, and software development contexts.
+<br>
+<br>
+<br/>
+Este repositório foi criado com fins acadêmicos para documentar meu processo de aprendizado da linguagem Python, uma linguagem moderna, versátil e de alto nível, amplamente utilizada em desenvolvimento web, automação, análise de dados, inteligência artificial e ciência de dados.
+O objetivo principal é explorar gradualmente os conceitos fundamentais e avançados de Python, incluindo tipos de dados, controle de fluxo, funções, programação orientada a objetos, bibliotecas padrão e frameworks populares, como Flask, Django, Pandas e NumPy.
+Este espaço servirá como base para experimentos, anotações, exercícios práticos e pequenos projetos, com foco em consolidar conhecimentos que podem ser aplicados em contextos acadêmicos, profissionais e de desenvolvimento de software.

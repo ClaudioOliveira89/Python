@@ -6,11 +6,13 @@
 ![Pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=25fafe)
 ![NumPy](https://img.shields.io/badge/numpy-0d1117?style=for-the-badge&logo=numpy&logoColor=25fafe)
 ![Plotly](https://img.shields.io/badge/Plotly-%230d1117.svg?style=for-the-badge&logo=plotly&logoColor=25fafe)
+![SciPy](https://img.shields.io/badge/SciPy-0d1117?style=for-the-badge&logo=scipy&logoColor=25fafe)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%230d1117.svg?style=for-the-badge&logo=PyTorch&logoColor=25fafe)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=25fafe)
 ![Keras](https://img.shields.io/badge/keras-0d1117?style=for-the-badge&logo=keras&logoColor=25fafe)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=25fafe)
 ![Pytest](https://img.shields.io/badge/pytest-0d1117?style=for-the-badge&logo=pytest&logoColor=25fafe)
+
 
 ----
 

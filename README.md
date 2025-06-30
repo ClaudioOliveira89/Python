@@ -1,17 +1,21 @@
 ### This repository documents my learning and development journey with the Python language, including practical projects and experiments.
 
 ![Python](https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=25fafe)
-![Flask](https://img.shields.io/badge/flask-0d1117?style=for-the-badge&logo=flask&logoColor=25fafe)
-![Django](https://img.shields.io/badge/django-0d1117?style=for-the-badge&logo=django&logoColor=25fafe)
+![Pytest](https://img.shields.io/badge/pytest-0d1117?style=for-the-badge&logo=pytest&logoColor=25fafe)
 ![Pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=25fafe)
 ![NumPy](https://img.shields.io/badge/numpy-0d1117?style=for-the-badge&logo=numpy&logoColor=25fafe)
-![Plotly](https://img.shields.io/badge/Plotly-%230d1117.svg?style=for-the-badge&logo=plotly&logoColor=25fafe)
 ![SciPy](https://img.shields.io/badge/SciPy-0d1117?style=for-the-badge&logo=scipy&logoColor=25fafe)
+![Plotly](https://img.shields.io/badge/Plotly-%230d1117.svg?style=for-the-badge&logo=plotly&logoColor=25fafe)
+![Streamlit](https://img.shields.io/badge/streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=25fafe)
+![Flask](https://img.shields.io/badge/flask-0d1117?style=for-the-badge&logo=flask&logoColor=25fafe)
+![Django](https://img.shields.io/badge/django-0d1117?style=for-the-badge&logo=django&logoColor=25fafe)
+![Scrapy](https://img.shields.io/badge/scrapy-0d1117?style=for-the-badge&logo=scrapy&logoColor=25fafe)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=25fafe)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%230d1117.svg?style=for-the-badge&logo=PyTorch&logoColor=25fafe)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=25fafe)
 ![Keras](https://img.shields.io/badge/keras-0d1117?style=for-the-badge&logo=keras&logoColor=25fafe)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=25fafe)
-![Pytest](https://img.shields.io/badge/pytest-0d1117?style=for-the-badge&logo=pytest&logoColor=25fafe)
+
+
 
 
 ----

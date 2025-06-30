@@ -1,4 +1,4 @@
-## This repository documents my learning and development journey with the Python language, including practical projects and experiments.
+### This repository documents my learning and development journey with the Python language, including practical projects and experiments.
 
 ![Python](https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=25fafe)
 ![Flask](https://img.shields.io/badge/flask-0d1117?style=for-the-badge&logo=flask&logoColor=25fafe)

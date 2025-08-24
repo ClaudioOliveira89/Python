@@ -1,5 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "./web_scraping_ima_complet/src"
-    ]
-}

@@ -1,7 +1,7 @@
 from pathlib import Path
 from datetime import datetime
-from repo.fetcher import fetch_page, parse_table
-from repo.writer import write_to_excel
+from utils.fetcher import fetch_page, parse_table
+from utils.write import write_to_excel
 from config.config_loader import URL as BASE_URL
 
 def run_pipeline(date: str = None):
@@ -28,11 +28,13 @@ def run_pipeline(date: str = None):
     html = fetch_page(URL)
     if not html:
         print("Erro ao baixar a página.")
+        print("Error downloading page.")
         return
 
     data = parse_table(html)
     if not data:
         print("Nenhum dado encontrado na tabela.")
+        print("No data found in table.")
         return
 
 

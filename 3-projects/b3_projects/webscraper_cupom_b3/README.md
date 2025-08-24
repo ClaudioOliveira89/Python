@@ -8,4 +8,7 @@ A clean, automated tool for fetching DI and Dollar rates published by B3. Export
 ## Portuguese Description
 📊 Web Scraper DI & Dólar – B3
 
-Ferramenta automatizada e organizada para coletar taxas DI e Dólar publicadas pela B3. Exporta os resultados para Excel e permite a extração de uma data específica ou da última data disponível.
+Ferramenta automatizada e organizada para coletar taxas DI e Dólar publicadas pela B3. Tabém conhecida como Cupom Exporta os resultados para Excel e permite a extração de uma data específica ou da última data disponível.
+
+
+![alt text](image.png)

@@ -3,7 +3,7 @@
 
 ### English Description
 
-Web scraping is a form of data mining that enables the extraction of information from websites, converting it into structured data. In this project, I automate the collection of the complete IMA dataset published by ANBIMA, saving the results into Excel files for further use, analysis, or the production of indexes and indicators.
+Web scraping is a form of data mining that enables the extraction of information from websites, converting it into structured data. In this project, I automate the collection of the complete IMA dataset published by ANBIMA, saving the results into xls files for further use, analysis, or the production of indexes and indicators.
 
 
 📊 IMA Web Scraper – ANBIMA
@@ -15,7 +15,7 @@ An automated tool for fetching the complete IMA dataset published by ANBIMA. Exp
 ### Portuguese Description
 
 
-Web scraping é uma forma de mineração que permite a extração de dados de sites da web, convertendo-os em informação estruturada. Neste projeto eu automatizo a coleta de dados do IMA Completo publicado pela ANBIMA, salvando os resultados em arquivos Excel para uso posterior, analise ou produção de índices e indicadores.
+Web scraping é uma forma de mineração que permite a extração de dados de sites da web, convertendo-os em informação estruturada. Neste projeto eu automatizo a coleta de dados do IMA Completo publicado pela ANBIMA, salvando os resultados em arquivos xls para uso posterior, analise ou produção de índices e indicadores.
 
 
 📊 Web Scraper IMA – ANBIMA

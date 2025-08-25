@@ -1,13 +1,13 @@
 import requests
-from config.config_directory import DOWNLOAD_PATH_IMA
+from config.config_directory import DOWNLOAD_PATH_IMA, URL
 from utils.save_files import save_file_contents
 
 def downloader_ima_complet(date_ddmmyyyy: str):
-    url = "https://www.anbima.com.br/informacoes/ima/arqs/ima_completo.xls"
+
     file_path = DOWNLOAD_PATH_IMA / f"IMA_Completo_{date_ddmmyyyy}.xls"
 
     try:
-        resp = requests.get(url, verify=False)
+        resp = requests.get(URL, verify=False)
         resp.raise_for_status()  
 
         save_file_contents(file_path, resp.content)

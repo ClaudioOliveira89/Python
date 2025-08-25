@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 
 # Downloads
-report/
+Downloads/
 *.xlsx
 *.xls
 *.csv

@@ -11,6 +11,8 @@ In this project, I automate the collection of the PTAX dataset published by the 
 - Date-range support or "today" as the latest available data.
 - Structured storage in `downloads/` or `report/` folders.
 
+---
+
 ## Portuguese Description
 Web scraping é uma técnica de extração de dados que permite coletar informações de sites da web e convertê-las em datasets estruturados.  
 Neste projeto, automatizo a coleta do conjunto de dados PTAX publicado pelo Banco Central do Brasil, salvando os resultados em arquivos Excel para análise, pesquisa ou modelagem financeira.
@@ -22,4 +24,4 @@ Neste projeto, automatizo a coleta do conjunto de dados PTAX publicado pelo Banc
 - Suporte a intervalo de datas ou "hoje" para obter os dados mais recentes.
 - Armazenamento organizado nas pastas `downloads/` ou `report/`.
 
-## Estrutura do Projeto
+

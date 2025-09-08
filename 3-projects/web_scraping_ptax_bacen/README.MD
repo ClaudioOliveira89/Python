@@ -1,5 +1,4 @@
 # 📊 PTAX Web Scraper – Banco Central do Brasil
- ---
 
 ## English Description
 Web scraping is a data extraction technique that allows you to collect information from websites and convert it into structured datasets.  

@@ -1,0 +1,11 @@
+## Install
+
+Python 3.13.7 version
+
+'''bash
+
+pip install -r requirements.txt
+
+# execution of project
+
+python .main.py

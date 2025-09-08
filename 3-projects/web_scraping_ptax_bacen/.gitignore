@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info
+
+# VS Code
+.vscode/
+
+# Excel / output
+downloads/
+report/
+
+# OS files
+.DS_Store
+Thumbs.db

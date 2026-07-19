@@ -1,0 +1,25 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Streamlit e segredos locais
+.streamlit/secrets.toml
+
+# Bancos e dados gerados localmente
+*.db
+*.sqlite
+*.sqlite3
+
+# Sistema e IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
